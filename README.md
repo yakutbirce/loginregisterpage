@@ -2,13 +2,15 @@
 
 This project offers an interactive web platform where users can easily log in and register. The goal is to enhance user experience with a simple and user-friendly interface.
 
-## Key Features
+## `Key Features`
 
 - **Responsive Design and Animations:** The web page includes responsive design and CSS animations to ensure optimal display on different devices.
 
 - **User-Friendly Interface:** The simple interface facilitates quick login and registration for users.
 
-## Technologies
+---
+
+## `Technologies`
 
 - **HTML and CSS:** The project is built using HTML and CSS to create the basic structure and apply visual styling.
 
@@ -19,3 +21,9 @@ This project offers an interactive web platform where users can easily log in an
 ## `Deploy`
 
 [https://loginregisterpageproject.netlify.app/](https://loginregisterpageproject.netlify.app/)
+
+---
+
+## `Screen`
+
+![screenshot](img.png)
