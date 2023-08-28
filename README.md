@@ -18,9 +18,17 @@ This project offers an interactive web platform where users can easily log in an
 
 - **CSS Animations:** We've implemented CSS animations for in-page transitions and elements.
 
+---
+
 ## `Deploy`
 
 [https://loginregisterpageproject.netlify.app/](https://loginregisterpageproject.netlify.app/)
+
+---
+
+## `Responsive Design Preview`
+
+![Alt text](Video_230828131857.gif)
 
 ---
 
