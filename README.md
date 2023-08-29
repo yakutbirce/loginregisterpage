@@ -29,9 +29,3 @@ This project offers an interactive web platform where users can easily log in an
 ## `Responsive Design Preview`
 
 ![Alt text](Video_230828131857.gif)
-
----
-
-## `Screen`
-
-![screenshot](img.png)
